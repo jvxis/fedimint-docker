@@ -28,7 +28,7 @@ docker compose up -d
 # Verifique se tudo certo
 Teste fedimintd
 ```bash
-docker logs fedimint-service-fedimintd-1
+docker logs fedimint-docker-fedimintd-1
 ```
 Não pode ter erro.
 
