@@ -32,7 +32,7 @@ services:
       -rpcbind=172.20.0.10
       -rpcauth="${BITCOIND_RPC_AUTH}"
       -dbcache=2200
-      -prune=550
+      -prune=200
       -maxmempool=5
       -par=2
       -rpcthreads=4
